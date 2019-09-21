@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Jeremy Lian"
   avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Theoretical physicist working on scientific computation, with interest in data science/machine learning"
+  bio              : "'&hellip; theoretical physicist working on scientific computation, with interest in data science/machine learning &hellip;'"
   location         : "Singapore"
   email            :
   uri              :
