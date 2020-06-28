@@ -5,11 +5,11 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-SG"
-title                    : "Jeremy Lian - Homepage"
+title                    : "Jeremy Lian | Homepage"
 title_separator          : "-"
 name                     : "Jeremy Lian"
 description              : "What was to be my portfolio showcase but has actually become my not-so-private corner on the interweb."
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "@lian_jf"
+  twitter          : "lian_jf"
   vine             :
   weibo            :
   xing             :
