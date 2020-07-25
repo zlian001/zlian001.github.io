@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-SG"
-title                    : "Jeremy Lian | Homepage"
+title                    : "Jeremy Lian Homepage"
 title_separator          : "-"
 name                     : "Jeremy Lian"
 description              : "What was to be my portfolio showcase but has actually become my not-so-private corner on the interweb."
