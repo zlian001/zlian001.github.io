@@ -1,5 +1,5 @@
 ---
-#layout: posts
+layout: posts
 permalink: /notes/
 title: "Notes"
 #author_profile: true
