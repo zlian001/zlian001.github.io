@@ -1,8 +1,10 @@
 ---
-title: "Research"
+title: "About"
 permalink: /about/
 # header:
   # image: "/images/zakim.jpg"
 ---
 
-I am a graduate student at Nanyang Technological University, working in the field of spintronics and neuromorphic computing.
+I am a university graduate in the 2020 Covid-19 global pandemic -- a helpless physicist at the sidelines envious of his peers in the frontline healthcare industry making a direct impact on human lives. Unemployed after passing up a scholarship for graduate studies (you can ask me why), I was a walking caricature of "the nerd living in his mum's basement". Not willing to be outdone by my higher-achieving peers, I started delivering essential items to at-risk families in my community with my trusty [pal](pic here). [Join](https://www.foodfromtheheart.sg/tour/individual-volunteer/sign-up.php) me and say hi!
+
+My personal interests outside of physics include: reading and writing; sports (in a distant past, I did western boxing and was into rock climbing); and assembling Lego toy models. To add to my already square and boring disposition, I also delight in implementing solutions to hypothetical problem situations using code as well as unnecessary tinkering with my collection of raspberry pi(s). I love old romantic movies, 80s Cantonese music, both soft and hard rock, wind on my face, and the occasional Netflix sitcoms. 
