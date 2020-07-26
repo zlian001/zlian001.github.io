@@ -6,4 +6,4 @@ excerpt: "A primer towards spintronics and its applications."
 ---
 
 Done during the first month of my graduate studies, before I made my decision to leave.  
-[pdf](pdf here)
+[pdf](/_pdf/intro_spintronics.pdf)
