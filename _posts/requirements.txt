@@ -1,0 +1,7 @@
+matplotlib
+scipy
+sympy
+numpy
+ipywidgets 
+numdifftools
+mpl_toolkits.mplot3d
